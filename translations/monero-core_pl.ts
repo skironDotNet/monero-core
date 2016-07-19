@@ -82,12 +82,12 @@
     <message>
         <location filename="../BasicPanel.qml" line="155"/>
         <source>amount...</source>
-        <translation type="unfinished"></translation>
+        <translation>kwota...</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="163"/>
         <source>SEND</source>
-        <translation type="unfinished"></translation>
+        <translation>WYŚLIJ</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="179"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../pages/Dashboard.qml" line="57"/>
         <source>Quick transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Szybki transfer</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="89"/>
         <source>SEND</source>
-        <translation type="unfinished"></translation>
+        <translation>WYŚLIJ</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="102"/>
@@ -128,22 +128,22 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma więcej rezultatów</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="137"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="172"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="193"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Kwota</translation>
     </message>
 </context>
 <context>
@@ -151,12 +151,12 @@
     <message>
         <location filename="../pages/History.qml" line="47"/>
         <source>Filter trasactions history</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtruj historię transakcji</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="56"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="58"/>
@@ -191,33 +191,33 @@
     <message>
         <location filename="../pages/History.qml" line="120"/>
         <source>Date from</source>
-        <translation type="unfinished"></translation>
+        <translation>Od dnia</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="140"/>
         <location filename="../pages/History.qml" line="243"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Do</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="160"/>
         <source>FILTER</source>
-        <translation type="unfinished"></translation>
+        <translation>FILTR</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="169"/>
         <source>Advance filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrowanie Zaawansowane</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="188"/>
         <source>Type of transation</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ transakcji</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="222"/>
         <source>Amount from</source>
-        <translation type="unfinished"></translation>
+        <translation>Kwota od</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma więcej rezultatów</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="129"/>
@@ -235,17 +235,17 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="167"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="202"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="223"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Kwota</translation>
     </message>
 </context>
 <context>
@@ -363,12 +363,12 @@
     <message>
         <location filename="../components/SearchInput.qml" line="69"/>
         <source>Search by...</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj...</translation>
     </message>
     <message>
         <location filename="../components/SearchInput.qml" line="230"/>
         <source>SEARCH</source>
-        <translation type="unfinished"></translation>
+        <translation>SZUKAJ</translation>
     </message>
 </context>
 <context>
@@ -650,17 +650,17 @@
     <message>
         <location filename="../wizard/WizardRecoveryWallet.qml" line="69"/>
         <source>My account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa mojego konta</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRecoveryWallet.qml" line="70"/>
         <source>We&apos;re ready to recover your account</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteśmy gotowi odzyskać twoje konto</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRecoveryWallet.qml" line="71"/>
         <source>Please enter your 25 word private key</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wpisać 25 słów swójego klucza prywatnego</translation>
     </message>
 </context>
 <context>
@@ -668,12 +668,12 @@
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="65"/>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>Witamy</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="76"/>
         <source>Please choose a language and regional format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wybrać język i format regionalny.</translation>
     </message>
 </context>
 <context>
@@ -683,35 +683,37 @@
         <location filename="../main.qml" line="195"/>
         <location filename="../main.qml" line="224"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd</translation>
     </message>
     <message>
         <location filename="../main.qml" line="141"/>
         <source>Couldn&apos;t open wallet: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nię mogę otworzyć portwela</translation>
     </message>
     <message>
         <location filename="../main.qml" line="196"/>
         <source>Can&apos;t create transaction: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie mogę utworzyć transakcji: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="208"/>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdzenie</translation>
     </message>
     <message>
         <location filename="../main.qml" line="209"/>
         <source>Please confirm transaction:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę potwierdzić transkację:
+
+</translation>
     </message>
     <message>
         <location filename="../main.qml" line="210"/>
         <source>
 Address: </source>
-        <translation type="unfinished"></translation>
+        <translation>Adres: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="211"/>
@@ -723,33 +725,35 @@ Payment ID: </source>
         <location filename="../main.qml" line="212"/>
         <source>
 Amount: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Kwota: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="213"/>
         <source>
 Fee: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Opłata: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="225"/>
         <source>Couldn&apos;t send the money: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nię mogłem wysłać pieniędzy: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="228"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja</translation>
     </message>
     <message>
         <location filename="../main.qml" line="229"/>
         <source>Money sent successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysyłka pieniędzy się powiodła</translation>
     </message>
     <message>
         <location filename="../main.qml" line="300"/>
         <source>Initializing Wallet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicjacja Portwela...</translation>
     </message>
 </context>
 </TS>
